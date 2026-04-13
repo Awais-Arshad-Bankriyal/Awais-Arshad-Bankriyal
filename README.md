@@ -1,6 +1,6 @@
 <div align="center">
 
-# Awais Arshad
+# Awais Arshad Bankriya
 
 **Backend Engineer · Distributed Systems · Low-Latency Architecture**
 
@@ -141,7 +141,11 @@ Third-party API integrations delivered in production environments:
 
 ## Certifications
 
-- **AI Fullstack Certification** — Ghulam Ishaq Khan Institute of Engineering (GIKI)
+<img src="https://giki.edu.pk/wp-content/uploads/2021/04/giki-logo.png" alt="GIKI Logo" height="48" align="left" style="margin-right: 12px;" />
+
+**AI Fullstack Certification**
+Ghulam Ishaq Khan Institute of Engineering Sciences and Technology (GIKI)
+&nbsp;
 
 ---
 
