@@ -113,13 +113,13 @@ Third-party API integrations delivered in production environments:
 
 | Platform | Domain |
 |---|---|
-| LinkedIn API | Social automation and content publishing |
-| Stripe | Subscription billing, webhooks, payment lifecycle |
-| Shopify | E-commerce data and order workflows |
-| HubSpot | CRM sync and contact management |
-| QuickBooks | Accounting and financial data |
-| Pennylane | Financial operations |
-| Silae | Payroll integration |
+| ![LinkedIn](https://img.shields.io/badge/LinkedIn_API-0A66C2?style=flat-square&logo=linkedin&logoColor=white) | Social automation and content publishing |
+| ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white) | Subscription billing, webhooks, payment lifecycle |
+| ![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=flat-square&logo=shopify&logoColor=white) | E-commerce data and order workflows |
+| ![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=flat-square&logo=hubspot&logoColor=white) | CRM sync and contact management |
+| ![QuickBooks](https://img.shields.io/badge/QuickBooks-2CA01C?style=flat-square&logo=intuit&logoColor=white) | Accounting and financial data |
+| ![Pennylane](https://img.shields.io/badge/Pennylane-FF6B35?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMiAzMiI+PGNpcmNsZSBjeD0iMTYiIGN5PSIxNiIgcj0iMTYiIGZpbGw9IiNmZmYiLz48L3N2Zz4=&logoColor=white) | Financial operations |
+| ![Silae](https://img.shields.io/badge/Silae-005B9A?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMiAzMiI+PGNpcmNsZSBjeD0iMTYiIGN5PSIxNiIgcj0iMTYiIGZpbGw9IiNmZmYiLz48L3N2Zz4=&logoColor=white) | Payroll integration |
 
 ---
 
