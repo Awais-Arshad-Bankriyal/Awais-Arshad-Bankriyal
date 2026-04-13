@@ -35,7 +35,14 @@ A multi-tenant SaaS platform for LinkedIn content scheduling, analytics, and wor
 - Multi-tenant authentication with per-tenant data isolation
 - **Stripe** billing and subscription lifecycle management
 
-**Integrations delivered:** LinkedIn API · Stripe · Shopify · HubSpot · Pennylane · QuickBooks · Silae
+**Integrations delivered:**
+![LinkedIn](https://img.shields.io/badge/LinkedIn_API-0A66C2?style=flat-square&logo=linkedin&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=flat-square&logo=shopify&logoColor=white)
+![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=flat-square&logo=hubspot&logoColor=white)
+![Pennylane](https://img.shields.io/badge/Pennylane-FF6B35?style=flat-square&logoColor=white)
+![QuickBooks](https://img.shields.io/badge/QuickBooks-2CA01C?style=flat-square&logo=intuit&logoColor=white)
+![Silae](https://img.shields.io/badge/Silae-005B9A?style=flat-square&logoColor=white)
 
 **Stack:** `Node.js` `TypeScript` `NestJS` `PostgreSQL` `Redis` `Kafka` `Electron.js` `SQLite` `Stripe`
 
