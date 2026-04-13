@@ -1,6 +1,6 @@
 <div align="center">
 
-# Awais Arshad Bankriya
+# Awais Arshad Bankriyal
 
 **Backend Engineer · Distributed Systems · Low-Latency Architecture**
 
